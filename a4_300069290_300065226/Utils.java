@@ -16,7 +16,7 @@ public class Utils {
     public static void assertTrue(boolean expected) {
 
         if (! expected) {
-            System.out.println("Fail: expected value = false");
+            System.out.println("Fail: expected value = true");
         }
 
     }
