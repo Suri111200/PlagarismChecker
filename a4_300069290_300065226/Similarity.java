@@ -1,4 +1,4 @@
-public interface Similarity extends WordMap{
+public interface Similarity {
 	
 	double score(WordMap a, WordMap b);
 }
